@@ -1,6 +1,6 @@
-# tester_czelencz
+#tester_czelencz
 Tester oprogramowania course 2k22
-
+[b]JSJJDJ[code]﻿[/code][/b]
 ###TASK(1)
 
 ##SUBTASK(1) XXX
@@ -25,3 +25,5 @@ Pierwsza praca, potem już z górki :)
 Jakie są Twoje oczekiwania wobec projektu?
 Nabycie umiejętnośći i praktyk testowania. 
 Oczywiście w dużym uogólnieniu ale aby nie być zupełnie "zielonym".
+
+**pogrtubuionyu tesxy**
